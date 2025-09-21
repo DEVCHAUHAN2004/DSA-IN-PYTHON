@@ -1,6 +1,7 @@
-def greet():
-  print("jfef")
+# def greet():
+#   print("jfef")
 
-greet()
-greet()
+# print(greet())
+
+
 
