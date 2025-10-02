@@ -5,5 +5,5 @@
 
 Learning **Data Structures & Algorithms** in Python has never been this fun! 🚀📈💡
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF5733&background=00000000&width=500&lines=🚀+Learning+DSA+in+Python+💻💡)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF5733&background=00000000&width=500&lines=🚀+Learning+DSA+in+Python+💻💡)    
 
