@@ -13,7 +13,7 @@ Learning **Data Structures & Algorithms** in Python has never been this fun! �
 ### 💡 What I am learning:
 - Python programming 🐍
 - Data Structures & Algorithms 📊
-- Problem-solving & Competitive Coding 💪
+- Problem-solving & Competitive Coding 💪   
 
 ### 🌟 Fun fact:
 > “Practice makes perfect, and code makes it fun!” 😎
