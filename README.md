@@ -5,7 +5,7 @@
 ### Hi, I am **DEV CHAUHAN** 👋🚀        
 
 Learning **Data Structures & Algorithms** in Python has never been this fun! 📈💡🔥 
-
+ 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1ABC9C&background=00000000&width=600&lines=🚀+Learning+DSA+in+Python+💻💡;⚡+Code+|+Practice+|+Problem+Solving+⚡;🔥+Level+Up+Your+Skills+Every+Day+🔥)
    
 ---    
